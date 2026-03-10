@@ -3,10 +3,10 @@
 _Learn about the person you're helping. Update this as you go._
 
 - **Name:** 
-- **What to call them:** Tiger
+- **What to call them:** Dialer
 - **Pronouns:** _(optional)_
 - **Timezone:** 
-- **Notes:** Prefers to be addressed as "Tiger".
+- **Notes:** Prefers to be addressed as "Dialer".
 
 ## Context
 

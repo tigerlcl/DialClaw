@@ -1,5 +1,5 @@
 ---
-name: jina-ai
+name: jina-ai-pro
 description: Web search and URL-to-LLM-readable extraction via Jina AI Reader. Use when the user needs fresh web search results, wants to read a URL into clean text or markdown, or needs lightweight bash and curl scripts backed by Jina AI and JINA_API_KEY.
 homepage: https://jina.ai/reader
 metadata: {"clawdbot":{"requires":{"bins":["bash","curl"],"env":["JINA_API_KEY"]},"primaryEnv":"JINA_API_KEY"}}

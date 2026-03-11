@@ -34,8 +34,8 @@ Things like:
 ### Web Access
 
 - When the default web tool is not enabled (search, fetch or browser use), please use the Jina AI Reader tool to access the web.
-- Use skills/jina-ai/scripts/search.sh to search the web.
-- Use skills/jina-ai/scripts/read.sh to read the web page.
+- Use skills/jina-ai-pro/scripts/search.sh to search the web.
+- Use skills/jina-ai-pro/scripts/read.sh to read the web page.
 
 ## Why Separate?
 
